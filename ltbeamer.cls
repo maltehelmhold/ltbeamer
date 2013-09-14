@@ -2,3 +2,5 @@
 \ProvidesClass{ltbeamer}[2013/10/14 latex-tutorials.com beamer klasse]
 
 \LoadClass[a4]{article}
+
+hey sexy bitch
