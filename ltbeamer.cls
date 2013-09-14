@@ -3,4 +3,4 @@
 
 \LoadClass[a4]{article}
 
-another git test
+the second git test
